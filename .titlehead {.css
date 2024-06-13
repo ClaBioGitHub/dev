@@ -1,0 +1,16 @@
+.titlehead {
+    background-color: blue;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.user {
+    text-align: center;
+}
+footer {
+    background-color: blue;
+    color: white;
+}
+.informationList {
+    color: white;
+}
